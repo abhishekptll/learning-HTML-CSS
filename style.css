@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.head{
+    /* text-align: center; */
+    /* text-align: right; */
+    text-decoration: underline;
+    /* text-decoration: overline; */
+    /* text-decoration: line-through; */
+    background-color: orange;
+
+
+}
+.head1{
+    text-align: center;/* this property use to text send right or center or left*/
+    text-decoration: overline; /*thid property use text underline or overline or line through*/
+    text-decoration-style: double; /*this property use to double dotted  wavy  solid */
+    text-decoration-color: brown;
+    background-color: olive;
+    font-size: 100px /*this property use for text size increase or decrease  */;
+    letter-spacing: 20px;
+    font-family: verdana;
+}
+.head2
+{
+    text-align: right;
+    text-decoration: line-through;
+    background-color: blueviolet;
+    letter-spacing: 50px;
+}
+
+#para{
+    font-style: italic; /*this property use for text style*/
+    word-spacing: 50px; /* */
+    line-height: 50px;/* */
+
+}
+
+.head3{
+    text-shadow: 5px 5px 2px violet; /*1 horizontal 2 vartical 3 bular 4 color using for pasitive or nagitive*/
+    color: red;
+    background-color: aliceblue;
+}
