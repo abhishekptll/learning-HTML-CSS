@@ -1,0 +1,27 @@
+*{
+    font-size: 200px;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+
+.fa-facebook{
+    color:blue;
+
+}
+.fa-square-whatsapp{
+    color: green;
+}
+.fa-instagram{
+    color: plum;
+}
+.fa-linkedin{
+    color: blue;
+}
+.fa-snapchat{
+    color: white;
+    background-color: yellow;
+}
