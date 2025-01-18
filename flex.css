@@ -1,0 +1,12 @@
+.container{
+    background-color: aqua;
+    width: 100%;
+    display: flex; 
+    justify-content: center; /* this work only parant row */ /*space-evenly ,space-arround , space-between ,start ,end*/
+    align-items: center; /* this work only parant column */
+    gap: 100px; /* this is work only child contant middle gap  */
+}
+img{
+    width: 250px;
+}
+

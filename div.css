@@ -1,0 +1,57 @@
+.wrapper{
+    background-color: aqua;
+    /* padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px; */
+    padding: 20px;
+    border: 5px solid black; /*thikness , style , color */
+}
+
+.wrapper h1{
+    color: blueviolet;
+}
+
+.wrapper button{
+    background-color: blue;
+    padding: 20px 40px; /*1 top bottom 2 left right this is use between border and contant  */
+}
+
+h1{
+    color: brown;
+}
+
+.container{
+background-color: aquamarine;
+border: 2px solid brown;
+
+}
+.container1:hover{
+    border-left-color: 5px solid yellow;
+    border-left: 100px;
+}
+
+.container{
+    background-color:cadetblue;
+    border: 2px solid brown;
+    margin-top: 20px;
+    }
+
+.container1 button{
+    background-color: chocolate;
+    padding: 20px 40px 30px 50px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}   
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+    margin-top: 50px;
+    /* border-radius: 50%; */
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    box-shadow: 6px 7px 8px 10px yellowgreen;  /*horizontal vartical blur sprad color*/
+}
+
+

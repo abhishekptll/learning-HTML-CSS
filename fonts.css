@@ -1,0 +1,13 @@
+.font1{
+    font-family: "Pacifico", serif
+}
+.font2{
+    font-family: "Agu Display", serif;
+}
+
+.img{
+    background-image: url("WzCJJ61ycTL22wPlFp8gozXILcWKiqRxsO6jwhJuDEmbSUfM.webp");
+    height: 100vh;
+    z-index: -1;
+    
+}

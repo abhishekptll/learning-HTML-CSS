@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aqua;
+}
+
+.container ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+}
+
+.container ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+@media(width<500px){
+    dis
+}

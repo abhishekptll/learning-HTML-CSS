@@ -1,0 +1,41 @@
+/* .nav{
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    top: 0;
+}
+.nav ul{
+    display: flex;
+    list-style: none;
+    gap : 30px
+}
+i{
+    position: fixed;
+    top:90%;
+    left:90%;
+    font-size: 50px;
+    background-color: red;
+    border-radius: 50%;
+}
+ */
+
+
+
+
+ .aero{
+    background-color: brown;
+    width: 100vw;
+    height: 100vh;
+ }
+
+ @keyframes mymove {
+    0%   {
+        
+    }
+    25%  {top: 200px;}
+    50%  {top: 100px;}
+    75%  {top: 200px;}
+    100% {top: 0px;}
+  }
